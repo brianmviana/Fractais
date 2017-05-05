@@ -1,10 +1,6 @@
 # Fractais
 
-## Objetivo
-
-O seu objetivo é aprender recursão para implementar o código que produzirá os fractais da pasta imagens. Faça o máximo que puder. Se enganchar em algum, pesquise na internet.
-
-## Instalação
+## Instalação da biblioteca nescessaria
 
     sudo apt-get install libsfml-dev
 
