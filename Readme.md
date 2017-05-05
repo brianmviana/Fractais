@@ -1,6 +1,6 @@
 # Fractais
 
-## Instalação da biblioteca nescessaria
+## Instalação da biblioteca necessária 
 
     sudo apt-get install libsfml-dev
 
